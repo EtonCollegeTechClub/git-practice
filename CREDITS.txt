@@ -1,2 +1,12 @@
+(King) Arthur 
 James Stanforth
+<<<<<<< HEAD
 John Dunlop
+=======
+professorfish
+Hrutvik Kanabar
+Felix Dennison
+Matthew Liew
+William Robson
+Laurence van Someren
+>>>>>>> FETCH_HEAD
